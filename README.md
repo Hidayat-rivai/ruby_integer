@@ -1,1 +1,5 @@
-# ruby_integer
+# Integer
+-	Decimal
+- Biner
+- Octal
+- HexaDecimal
